@@ -6,6 +6,7 @@ import { DeleteOutlined, EyeOutlined } from '@ant-design/icons';
 import CreateProjectForm from './create.jsx';
 import EventDetailsModal from './detail';
 import api from '../utils/api.js';
+import '../utils/index.css';
 
 const { Title } = Typography;
 // React component to display and manage the list of events
